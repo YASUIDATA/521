@@ -1,2 +1,2 @@
-vless://d0294314-602b-4948-83dc-c5ee6ca73bda@5.104.80.188:26770?type=tcp&path=%2F&host=povo.jp&headerType=http&security=none#AU%20Slow-HTTL%20521
-vless://3a102f23-7b63-4056-b5df-ee91cc6ed326@45.77.9.169:42169?type=tcp&path=%2F&host=povo.jp&headerType=http&security=none#Fast%20AU-HTTL%20521
+vless://3a102f23-7b63-4056-b5df-ee91cc6ed326@45.77.9.169:42169/?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#Fast%20SB-HTTL%20521
+vless://d0294314-602b-4948-83dc-c5ee6ca73bda@5.104.80.188:26770/?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#SB%20SLOW-HTTL%20521
